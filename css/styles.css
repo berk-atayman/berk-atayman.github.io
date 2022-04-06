@@ -4,6 +4,14 @@ body {
   background-color: #ffffff;
   font-family: 'Oxygen', sans-serif;
 }
+
+.container h1{
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+
 /* header */
 #header-nav {
   background-color: grey;
